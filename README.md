@@ -1,6 +1,18 @@
-# VUDG
+# VUDG: A Dataset for Video Understanding Domain Generalization
 
-### VUDG: A Dataset for Video Understanding Domain Generalization ###
+
+<div align="center">
+  <a href="https://arxiv.org/abs/2505.24346" target="_blank">
+    <img src="https://img.shields.io/badge/arXiv-2311.10122-B31B1B?logo=arxiv&logoColor=white" alt="arXiv">
+  </a>
+  
+  <a href="https://huggingface.co/datasets/QLGalaxy/VUDG" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Dataset-blue?logo=huggingface" alt="Hugging Face">
+  </a>
+  <!-- <a href="https://github.com/your-username/VUDG/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-Apache%202.0-green?logo=apache&logoColor=white" alt="License">
+  </a> -->
+</div>
 
 VUDG is a benchmark dataset for evaluating domain generalization (DG) in video understanding. It contains 7,899 video clips and 36,388 high-quality QA pairs, covering 11 diverse visual domains, such as cartoon, egocentric, surveillance, rainy, snowy, etc. Each video is annotated with both multiple-choice and open-ended question-answer pairs, designed via a multi-expert progressive annotation pipeline using large multimodal models and human verification.
 
