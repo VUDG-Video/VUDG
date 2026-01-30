@@ -10,10 +10,10 @@
     <img src="https://img.shields.io/badge/arXiv-2505.24346-B31B1B?logo=arxiv&logoColor=white" alt="arXiv">
   </a>
   <a href="https://huggingface.co/datasets/QLGalaxy/VUDG" target="_blank">
-    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-VUDG-ffd21e?logo=huggingface&logoColor=black" alt="Hugging Face">
+    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-VUDG-ffd21e?logo=huggingface" alt="Hugging Face">
   </a>
-  <a href="https://github.com/VUDG-Video/VUDG/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-Apache%202.0-green?logo=apache&logoColor=white" alt="License">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="License">
   </a>
 
 </div>
@@ -27,6 +27,7 @@
 **VUDG** is a comprehensive benchmark dataset designed to evaluate **Domain Generalization (DG)** capabilities in video understanding models. To rigorously test robustness, VUDG maintains semantic consistency across domains, ensuring that performance drops are attributable to domain shifts rather than semantic variability.
 
 ### Key Features
+- **⚖️ Semantic Consistency:** The dataset maintains semantic consistency across domains to ensure that model performance reflects domain generalization ability rather than semantic variability.
 - **📊 Large-Scale:** Contains **7,899** video clips and **36,388** high-quality QA pairs.
 - **🌍 Diverse Domains:** Covers **11 distinct visual domains**, including *Cartoon, Egocentric, Surveillance, Rainy, Snowy*, and more.
 - **📝 Rich Annotations:** Includes both **Multiple-Choice** and **Open-Ended** QA pairs.
@@ -103,5 +104,4 @@ If you find VUDG useful for your research, please consider citing our paper:
 ```
 
 ## 📄 License
-This project is licensed under the [Apache 2.0 License](LICENSE).
-```
+This project is licensed under the CC BY-NC-SA 4.0 license.
