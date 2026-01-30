@@ -1,24 +1,23 @@
+<div align="center">
+
 # 🎥 VUDG: A Dataset for Video Understanding Domain Generalization
 
-<div align="center">
-  <img src="assets/teaser.png" width="800px">
-</div>
-
-<div align="center">
-
-  <a href="https://arxiv.org/abs/2505.24346" target="_blank">
+<a href="https://arxiv.org/abs/2505.24346" target="_blank">
     <img src="https://img.shields.io/badge/arXiv-2505.24346-B31B1B?logo=arxiv&logoColor=white" alt="arXiv">
-  </a>
-  <a href="https://huggingface.co/datasets/QLGalaxy/VUDG" target="_blank">
-    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-VUDG-ffd21e?logo=huggingface" alt="Hugging Face">
-  </a>
-  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-    <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="License">
-  </a>
-
-</div>
+</a>
+<a href="https://huggingface.co/datasets/QLGalaxy/VUDG" target="_blank">
+    <img src="https://img.shields.io/badge/Dataset-VUDG-ffd21e?logo=huggingface" alt="Hugging Face">
+</a>
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-42b983?logo=creative-commons&logoColor=white" alt="License">
+</a>
 
 <br>
+<br>
+
+<img src="assets/teaser.png" width="90%">
+
+</div>
 
 
 
